@@ -47,7 +47,7 @@ public class AccountantDashboardFragment extends Fragment {
     }
 
     private void fetchFinanceDashboardData() {
-        //Fetches 
+        //Fetches data for the finance 
         RequestQueue requestQueue = Volley.newRequestQueue(requireContext());
 
         JsonObjectRequest jsonObjectRequest = new JsonObjectRequest(
