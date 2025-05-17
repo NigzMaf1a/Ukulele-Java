@@ -6,7 +6,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 import android.widget.Toast;
-ggg
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
