@@ -30,7 +30,7 @@ public class BandBookingFragment extends Fragment {
     private RequestQueue requestQueue;
 
     public BandBookingFragment() {
-        // Required empty public const
+        // Required empty public
     }
 
     @Nullable
